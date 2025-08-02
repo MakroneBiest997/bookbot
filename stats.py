@@ -1,4 +1,4 @@
-book_path = "books/frankenstein.txt"
+
 
 def count_words(text):
     word_list = text.split()
